@@ -1,5 +1,4 @@
 ---
-notes: "osvdb-to-ghsa"
 gem: testdir
 osvdb: 120857
 ghsa: gj4p-3wh3-2rma
@@ -18,3 +17,4 @@ patched_versions:
 related:
   url:
     - https://groups.google.com/g/ruby-security-ann/c/VIfMO2LvzNs
+notes: "osvdb-to-ghsa"
